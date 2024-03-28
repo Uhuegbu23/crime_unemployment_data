@@ -23,10 +23,10 @@ These are some of the questions I have in mind:
 * What time of the day does car theft or any other type of crime happen most?
 
 
-Data Sources
-Nashville, TN: https://data.nashville.gov/Police/Metro-Nashville-Police-Department-Calls-for-Servic/kwnd-qrrm/about_data 
-Louisville, KY: https://data.louisvilleky.gov/datasets/LOJIC::louisville-metro-ky-crime-data-2023/explore 
-Birmingham, AL: https://data.birminghamal.gov/dataset/east-precinct-crime-data
-https://data.birminghamal.gov/dataset/south-precinct-crime-data
-https://data.birminghamal.gov/dataset/north-precinct-crime-data 
-https://data.birminghamal.gov/dataset/west-precinct-crime-data 
+#### Data Sources
+* Nashville, TN: https://data.nashville.gov/Police/Metro-Nashville-Police-Department-Calls-for-Servic/kwnd-qrrm/about_data 
+* Louisville, KY: https://data.louisvilleky.gov/datasets/LOJIC::louisville-metro-ky-crime-data-2023/explore 
+* Birmingham, AL: https://data.birminghamal.gov/dataset/east-precinct-crime-data
+* https://data.birminghamal.gov/dataset/south-precinct-crime-data
+* https://data.birminghamal.gov/dataset/north-precinct-crime-data 
+* https://data.birminghamal.gov/dataset/west-precinct-crime-data 
